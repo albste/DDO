@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1340 560" width="1340" height="560" role="img" aria-labelledby="t d" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">Roadmap di adozione del DDO: 6 fasi, 5 passaggi</title>
+  <desc id="d">Sei fasi in ordine: specifica, prototipo, pilota di comunità, pilota comunale, estensione parallela, integrazione. Cinque passaggi le separano. L'integrazione avviene solo se i cittadini la scelgono.</desc>
+  <rect width="1340" height="560" fill="#ffffff"/>
+  <text x="30" y="42" font-size="22" font-weight="700" fill="#1f2937">Roadmap di adozione del DDO</text>
+  <text x="30" y="64" font-size="13" fill="#4b5563">6 fasi, 5 passaggi. Ogni fase si sblocca solo superando il passaggio precedente.</text>
+
+  <g stroke="#9ca3af" stroke-width="2">
+    <line x1="210" y1="230" x2="250" y2="230"/>
+    <line x1="430" y1="230" x2="470" y2="230"/>
+    <line x1="650" y1="230" x2="690" y2="230"/>
+    <line x1="870" y1="230" x2="910" y2="230"/>
+    <line x1="1090" y1="230" x2="1130" y2="230"/>
+  </g>
+
+  <g>
+    <rect x="30" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M30 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H30z" fill="#1e4e8c"/>
+    <text x="44" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">FASE 1</text>
+    <text x="44" y="134" font-size="14" font-weight="700" fill="#ffffff">Specifica</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="44" y="176">• Documenti pubblicati</text>
+      <text x="44" y="200">• Critica aperta</text>
+      <text x="44" y="224">• Questioni aperte</text>
+      <text x="54" y="242">elencate</text>
+      <text x="44" y="266">• Ancora nessun codice</text>
+    </g>
+
+    <rect x="250" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M250 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H250z" fill="#1e4e8c"/>
+    <text x="264" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">FASE 2</text>
+    <text x="264" y="134" font-size="14" font-weight="700" fill="#ffffff">Prototipo</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="264" y="176">• Credenziali firmate</text>
+      <text x="264" y="200">• Voto verificabile,</text>
+      <text x="274" y="218">fiduciari a soglia</text>
+      <text x="264" y="242">• Registro di trasparenza</text>
+      <text x="264" y="266">• Ancora niente prove a</text>
+      <text x="274" y="284">conoscenza zero: lacune</text>
+      <text x="274" y="302">di privacy documentate</text>
+    </g>
+
+    <rect x="470" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M470 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H470z" fill="#1e4e8c"/>
+    <text x="484" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">FASE 3</text>
+    <text x="484" y="134" font-size="14" font-weight="700" fill="#ffffff">Pilota di comunità</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="484" y="176">• Voto fondativo</text>
+      <text x="484" y="200">• Credenziali non</text>
+      <text x="494" y="218">collegabili</text>
+      <text x="484" y="242">• Nullifier per quesito</text>
+      <text x="484" y="266">• Decisioni consultive</text>
+      <text x="484" y="290">• Gruppo piccolo e</text>
+      <text x="494" y="308">volontario</text>
+    </g>
+
+    <rect x="690" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M690 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H690z" fill="#1e4e8c"/>
+    <text x="704" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">FASE 4</text>
+    <text x="704" y="134" font-size="14" font-weight="700" fill="#ffffff">Pilota comunale</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="704" y="176">• Abilitazione a</text>
+      <text x="714" y="194">conoscenza zero</text>
+      <text x="704" y="218">• Fasce di peso</text>
+      <text x="704" y="242">• Cabine, voto assistito</text>
+      <text x="704" y="266">• Strumenti di audit</text>
+      <text x="714" y="284">completi</text>
+      <text x="704" y="308">• Decisioni consultive</text>
+      <text x="714" y="326">e delegate</text>
+    </g>
+
+    <rect x="910" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M910 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H910z" fill="#1e4e8c"/>
+    <text x="924" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">FASE 5</text>
+    <text x="924" y="134" font-size="14" font-weight="700" fill="#ffffff">Estensione parallela</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="924" y="176">• Affianca le istituzioni</text>
+      <text x="934" y="194">esistenti</text>
+      <text x="924" y="218">• Più comuni</text>
+      <text x="924" y="242">• Cerimonie dei fiduciari</text>
+      <text x="934" y="260">tra istituzioni</text>
+      <text x="924" y="284">• Piano post-quantistico</text>
+    </g>
+
+    <rect x="1130" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#5b6b8c" stroke-width="1.5" stroke-dasharray="6 4"/>
+    <path d="M1130 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H1130z" fill="#5b6b8c"/>
+    <text x="1144" y="112" font-size="11" fill="#e5e7eb" letter-spacing="1">FASE 6</text>
+    <text x="1144" y="134" font-size="14" font-weight="700" fill="#ffffff">Integrazione</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="1144" y="176">• Solo se i cittadini</text>
+      <text x="1154" y="194">la scelgono</text>
+      <text x="1144" y="218">• Mai automatica</text>
+      <text x="1144" y="242">• Sostituire del tutto i</text>
+      <text x="1154" y="260">governi è un obiettivo</text>
+      <text x="1154" y="278">di lungo periodo, non</text>
+      <text x="1154" y="296">un punto di partenza</text>
+    </g>
+  </g>
+
+  <g fill="#b45309">
+    <path d="M230 214l16 16-16 16-16-16z"/>
+    <path d="M450 214l16 16-16 16-16-16z"/>
+    <path d="M670 214l16 16-16 16-16-16z"/>
+    <path d="M890 214l16 16-16 16-16-16z"/>
+    <path d="M1110 214l16 16-16 16-16-16z"/>
+  </g>
+  <g font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="230" y="235">1</text>
+    <text x="450" y="235">2</text>
+    <text x="670" y="235">3</text>
+    <text x="890" y="235">4</text>
+    <text x="1110" y="235">5</text>
+  </g>
+
+  <g font-size="13" fill="#1f2937">
+    <text x="30" y="414"><tspan font-weight="700" fill="#b45309">Passaggio 1</tspan>  Specifica sottoposta a revisione pubblica, questioni aperte elencate.</text>
+    <text x="30" y="438"><tspan font-weight="700" fill="#b45309">Passaggio 2</tspan>  Audit crittografico indipendente e valutazione d'impatto sulla protezione dei dati prima del primo pilota.</text>
+    <text x="30" y="462"><tspan font-weight="700" fill="#b45309">Passaggi 3, 4, 5</tspan>  Criteri fissati dai partecipanti di ciascun pilota nel proprio voto fondativo. Nessun numero imposto dall'esterno.</text>
+  </g>
+  <line x1="30" y1="480" x2="1310" y2="480" stroke="#e5e7eb"/>
+  <g font-size="13" fill="#374151">
+    <text x="30" y="504">Un passaggio non superato significa restare nella fase attuale o tornare indietro. Nessuna fase è obbligatoria.</text>
+    <text x="30" y="528">Criteri di arresto: un pilota si sospende o si annulla per un difetto critico non risolto in un audit, per partecipazione sotto il livello fissato, o per cattura da parte di un gruppo.</text>
+  </g>
+</svg>

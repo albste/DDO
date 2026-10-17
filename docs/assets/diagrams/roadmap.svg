@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1340 560" width="1340" height="560" role="img" aria-labelledby="t d" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">DDO adoption roadmap: 6 phases, 5 gates</title>
+  <desc id="d">Six phases in order: specification, prototype, community pilot, municipal pilot, parallel scale-up, integration. Five gates sit between them. Integration happens only if citizens choose it.</desc>
+  <rect width="1340" height="560" fill="#ffffff"/>
+  <text x="30" y="42" font-size="22" font-weight="700" fill="#1f2937">DDO adoption roadmap</text>
+  <text x="30" y="64" font-size="13" fill="#4b5563">6 phases, 5 gates. Each phase unlocks only when the previous gate is passed.</text>
+
+  <!-- connectors -->
+  <g stroke="#9ca3af" stroke-width="2">
+    <line x1="210" y1="230" x2="250" y2="230"/>
+    <line x1="430" y1="230" x2="470" y2="230"/>
+    <line x1="650" y1="230" x2="690" y2="230"/>
+    <line x1="870" y1="230" x2="910" y2="230"/>
+    <line x1="1090" y1="230" x2="1130" y2="230"/>
+  </g>
+
+  <!-- cards -->
+  <g>
+    <rect x="30" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M30 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H30z" fill="#1e4e8c"/>
+    <text x="44" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">PHASE 1</text>
+    <text x="44" y="134" font-size="16" font-weight="700" fill="#ffffff">Specification</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="44" y="176">• Documents published</text>
+      <text x="44" y="200">• Open critique</text>
+      <text x="44" y="224">• Open questions listed</text>
+      <text x="44" y="248">• No code yet</text>
+    </g>
+
+    <rect x="250" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M250 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H250z" fill="#1e4e8c"/>
+    <text x="264" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">PHASE 2</text>
+    <text x="264" y="134" font-size="16" font-weight="700" fill="#ffffff">Prototype</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="264" y="176">• Signed credentials</text>
+      <text x="264" y="200">• Verifiable voting,</text>
+      <text x="274" y="218">threshold trustees</text>
+      <text x="264" y="242">• Transparency log</text>
+      <text x="264" y="266">• No zero-knowledge yet:</text>
+      <text x="274" y="284">privacy gaps documented</text>
+    </g>
+
+    <rect x="470" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M470 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H470z" fill="#1e4e8c"/>
+    <text x="484" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">PHASE 3</text>
+    <text x="484" y="134" font-size="16" font-weight="700" fill="#ffffff">Community pilot</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="484" y="176">• Founding vote</text>
+      <text x="484" y="200">• Unlinkable credentials</text>
+      <text x="484" y="224">• Per-question nullifiers</text>
+      <text x="484" y="248">• Advisory decisions</text>
+      <text x="484" y="272">• Small, voluntary group</text>
+    </g>
+
+    <rect x="690" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M690 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H690z" fill="#1e4e8c"/>
+    <text x="704" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">PHASE 4</text>
+    <text x="704" y="134" font-size="16" font-weight="700" fill="#ffffff">Municipal pilot</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="704" y="176">• Zero-knowledge</text>
+      <text x="714" y="194">eligibility</text>
+      <text x="704" y="218">• Weight tiers</text>
+      <text x="704" y="242">• Kiosks, assisted voting</text>
+      <text x="704" y="266">• Full audit tooling</text>
+      <text x="704" y="290">• Advisory and delegated</text>
+      <text x="714" y="308">decisions</text>
+    </g>
+
+    <rect x="910" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+    <path d="M910 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H910z" fill="#1e4e8c"/>
+    <text x="924" y="112" font-size="11" fill="#dbeafe" letter-spacing="1">PHASE 5</text>
+    <text x="924" y="134" font-size="16" font-weight="700" fill="#ffffff">Parallel scale-up</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="924" y="176">• Runs beside existing</text>
+      <text x="934" y="194">institutions</text>
+      <text x="924" y="218">• Several municipalities</text>
+      <text x="924" y="242">• Multi-institution</text>
+      <text x="934" y="260">trustee ceremonies</text>
+      <text x="924" y="284">• Post-quantum plan</text>
+    </g>
+
+    <rect x="1130" y="90" width="180" height="290" rx="8" fill="#f3f4f6" stroke="#5b6b8c" stroke-width="1.5" stroke-dasharray="6 4"/>
+    <path d="M1130 98a8 8 0 0 1 8-8h164a8 8 0 0 1 8 8v48H1130z" fill="#5b6b8c"/>
+    <text x="1144" y="112" font-size="11" fill="#e5e7eb" letter-spacing="1">PHASE 6</text>
+    <text x="1144" y="134" font-size="16" font-weight="700" fill="#ffffff">Integration</text>
+    <g font-size="13" fill="#1f2937">
+      <text x="1144" y="176">• Only if citizens</text>
+      <text x="1154" y="194">choose it</text>
+      <text x="1144" y="218">• Never a default</text>
+      <text x="1144" y="242">• Full replacement is a</text>
+      <text x="1154" y="260">long-term possibility,</text>
+      <text x="1154" y="278">not a starting point</text>
+    </g>
+  </g>
+
+  <!-- gates -->
+  <g fill="#b45309">
+    <path d="M230 214l16 16-16 16-16-16z"/>
+    <path d="M450 214l16 16-16 16-16-16z"/>
+    <path d="M670 214l16 16-16 16-16-16z"/>
+    <path d="M890 214l16 16-16 16-16-16z"/>
+    <path d="M1110 214l16 16-16 16-16-16z"/>
+  </g>
+  <g font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="230" y="235">1</text>
+    <text x="450" y="235">2</text>
+    <text x="670" y="235">3</text>
+    <text x="890" y="235">4</text>
+    <text x="1110" y="235">5</text>
+  </g>
+
+  <!-- gate legend -->
+  <g font-size="13" fill="#1f2937">
+    <text x="30" y="414"><tspan font-weight="700" fill="#b45309">Gate 1</tspan>  Specification reviewed in public, open questions listed.</text>
+    <text x="30" y="438"><tspan font-weight="700" fill="#b45309">Gate 2</tspan>  Independent cryptographic audit and a data-protection impact assessment before the first pilot.</text>
+    <text x="30" y="462"><tspan font-weight="700" fill="#b45309">Gates 3, 4, 5</tspan>  Criteria set by each pilot's participants in its founding vote. No number is imposed from outside.</text>
+  </g>
+  <line x1="30" y1="480" x2="1310" y2="480" stroke="#e5e7eb"/>
+  <g font-size="13" fill="#374151">
+    <text x="30" y="504">A failed gate means staying in the current phase or stepping back. No phase is mandatory.</text>
+    <text x="30" y="528">Stop criteria: pause or reverse a pilot on an unresolved critical audit flaw, participation below the level its participants set, or evidence that a group has captured the system.</text>
+  </g>
+</svg>

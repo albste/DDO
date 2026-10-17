@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" width="1000" height="570" role="img" aria-labelledby="t d" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">DDO technical architecture: 6 layers</title>
+  <desc id="d">Six layers from top to bottom: clients, identity and credentials, scoring, eligibility proofs, voting, public records. Each layer depends only on the one above it. Revocation lists, scoring-rule versions and ballots are published to the public records layer, which anyone can verify.</desc>
+  <rect width="1000" height="570" fill="#ffffff"/>
+  <text x="30" y="40" font-size="22" font-weight="700" fill="#1f2937">DDO technical architecture</text>
+  <text x="30" y="62" font-size="13" fill="#4b5563">6 layers. Each depends only on the one above and exposes only what the next one needs.</text>
+
+  <!-- layer 1 -->
+  <rect x="30" y="80" width="940" height="64" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+  <circle cx="62" cy="112" r="14" fill="#1e4e8c"/><text x="62" y="117" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="90" y="106" font-size="15" font-weight="700" fill="#1f2937">Clients</text>
+  <text x="90" y="128" font-size="13" fill="#374151">Wallet app and public kiosks. Keys in secure hardware; biometrics only unlock locally.</text>
+  <path d="M492 144l8 8 8-8z" fill="#9ca3af"/>
+
+  <!-- layer 2 -->
+  <rect x="30" y="156" width="940" height="64" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+  <circle cx="62" cy="188" r="14" fill="#1e4e8c"/><text x="62" y="193" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="90" y="182" font-size="15" font-weight="700" fill="#1f2937">Identity and credentials</text>
+  <text x="90" y="204" font-size="13" fill="#374151">DIDs and verifiable credentials: citizenship, age, residence, role. Social key recovery.</text>
+  <text x="950" y="198" font-size="12" fill="#b45309" text-anchor="end">publishes: revocation lists</text>
+  <path d="M492 220l8 8 8-8z" fill="#9ca3af"/>
+
+  <!-- layer 3 -->
+  <rect x="30" y="232" width="940" height="64" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+  <circle cx="62" cy="264" r="14" fill="#1e4e8c"/><text x="62" y="269" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="90" y="258" font-size="15" font-weight="700" fill="#1f2937">Scoring</text>
+  <text x="90" y="280" font-size="13" fill="#374151">Public, versioned rules turn verified inputs into expiring domain-score credentials.</text>
+  <text x="950" y="274" font-size="12" fill="#b45309" text-anchor="end">publishes: scoring-rule versions</text>
+  <path d="M492 296l8 8 8-8z" fill="#9ca3af"/>
+
+  <!-- layer 4 -->
+  <rect x="30" y="308" width="940" height="64" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+  <circle cx="62" cy="340" r="14" fill="#1e4e8c"/><text x="62" y="345" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="90" y="334" font-size="15" font-weight="700" fill="#1f2937">Eligibility proofs</text>
+  <text x="90" y="356" font-size="13" fill="#374151">Zero-knowledge proofs of eligibility and weight tier, plus a per-question nullifier.</text>
+  <path d="M492 372l8 8 8-8z" fill="#9ca3af"/>
+
+  <!-- layer 5 -->
+  <rect x="30" y="384" width="940" height="64" rx="8" fill="#f3f4f6" stroke="#1e4e8c" stroke-width="1.5"/>
+  <circle cx="62" cy="416" r="14" fill="#1e4e8c"/><text x="62" y="421" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="90" y="410" font-size="15" font-weight="700" fill="#1f2937">Voting</text>
+  <text x="90" y="432" font-size="13" fill="#374151">Threshold-encrypted ballots, verifiable tally, challenge-and-spoil device audit.</text>
+  <text x="950" y="426" font-size="12" fill="#b45309" text-anchor="end">publishes: encrypted ballots</text>
+  <path d="M492 448l8 8 8-8z" fill="#9ca3af"/>
+
+  <!-- layer 6 -->
+  <rect x="30" y="460" width="940" height="64" rx="8" fill="#1e4e8c"/>
+  <circle cx="62" cy="492" r="14" fill="#ffffff"/><text x="62" y="497" font-size="14" font-weight="700" fill="#1e4e8c" text-anchor="middle">6</text>
+  <text x="90" y="486" font-size="15" font-weight="700" fill="#ffffff">Public records</text>
+  <text x="90" y="508" font-size="13" fill="#dbeafe">Transparency logs cosigned by independent witnesses. No personal data stored.</text>
+  <text x="950" y="502" font-size="12" fill="#ffffff" text-anchor="end">shared point of verification</text>
+
+  <text x="30" y="548" font-size="13" fill="#374151">Audit trails of operator actions also end up in the public records, so anyone can check the system without trusting its operators.</text>
+</svg>
