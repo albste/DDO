@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Claude Code local files
+.claude/settings.local.json
+graphify-out/
+
+# Future code (phase 1)
+node_modules/
+target/
+.env

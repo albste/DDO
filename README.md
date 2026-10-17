@@ -46,3 +46,7 @@ Open an issue or start a discussion. The contribution process may change as the 
 ## Author
 
 **albste**
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=albste/DDO&type=Date)](https://star-history.com/#albste/DDO&Date)

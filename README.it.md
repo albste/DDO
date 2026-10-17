@@ -46,3 +46,7 @@ Apri una issue o avvia una discussione. Il processo di contribuzione potrà camb
 ## Autore
 
 **albste**
+
+## Cronologia delle stelle
+
+[![Star History Chart](https://api.star-history.com/svg?repos=albste/DDO&type=Date)](https://star-history.com/#albste/DDO&Date)
