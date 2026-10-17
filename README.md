@@ -22,6 +22,7 @@ An open proposal for a political system where citizens decide directly, power is
 | Whitepaper | [Whitepaper](docs/en/01-whitepaper.md) | [Whitepaper](docs/it/01-whitepaper.md) |
 | Charter of Fundamental Rights | [Charter of Fundamental Rights](docs/en/02-charter-of-fundamental-rights.md) | [Carta dei Diritti Fondamentali](docs/it/02-carta-dei-diritti-fondamentali.md) |
 | Technical Specification | [Technical Specification](docs/en/03-technical-specification.md) | [Specifica Tecnica](docs/it/03-specifica-tecnica.md) |
+| Product and Interface | [Product and Interface](docs/en/04-product-and-interface.md) | [Prodotto e Interfaccia](docs/it/04-prodotto-e-interfaccia.md) |
 
 ## Honest limits
 

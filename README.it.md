@@ -22,6 +22,7 @@ Una proposta aperta di sistema politico in cui i cittadini decidono direttamente
 | Whitepaper | [Whitepaper](docs/it/01-whitepaper.md) | [Whitepaper](docs/en/01-whitepaper.md) |
 | Carta dei Diritti Fondamentali | [Carta dei Diritti Fondamentali](docs/it/02-carta-dei-diritti-fondamentali.md) | [Charter of Fundamental Rights](docs/en/02-charter-of-fundamental-rights.md) |
 | Specifica Tecnica | [Specifica Tecnica](docs/it/03-specifica-tecnica.md) | [Technical Specification](docs/en/03-technical-specification.md) |
+| Prodotto e Interfaccia | [Prodotto e Interfaccia](docs/it/04-prodotto-e-interfaccia.md) | [Product and Interface](docs/en/04-product-and-interface.md) |
 
 ## Limiti dichiarati
 

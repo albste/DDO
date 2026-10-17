@@ -14,11 +14,13 @@ ddo/
 │   ├── en/
 │   │   ├── 01-whitepaper.md
 │   │   ├── 02-charter-of-fundamental-rights.md
-│   │   └── 03-technical-specification.md
+│   │   ├── 03-technical-specification.md
+│   │   └── 04-product-and-interface.md
 │   ├── it/
 │   │   ├── 01-whitepaper.md
 │   │   ├── 02-carta-dei-diritti-fondamentali.md
-│   │   └── 03-specifica-tecnica.md
+│   │   ├── 03-specifica-tecnica.md
+│   │   └── 04-prodotto-e-interfaccia.md
 │   └── assets/
 │       └── diagrams/
 │           ├── roadmap.svg

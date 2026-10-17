@@ -26,6 +26,16 @@ Collected from the documents, so critics see where help is most needed. The weak
 - Governance of trustees and witnesses: who they are, and how they are replaced.
 - Formal modelling of the scoring system against gaming.
 
+## Product and interface (section 11)
+
+- How should voting work when a faction brings an amendment incompatible with the proposal: multi-option vote, runoff, or separate competing proposals?
+- Should people not eligible to vote on a proposal be allowed to comment?
+- How many members does a faction need to appear on the voting sheet, and which thresholds protect small groups?
+- How do we keep the actual-spending view of the state economy map reliable when bodies publish late or incompletely?
+- Should the website allow voting with a software key, or only linking to the app's wallet?
+- To what level of detail should the map cover individual contracts and suppliers?
+- What exact criteria decide whether an undeclared-impact flag is upheld, and who applies them?
+
 ## Parameters left to the founding vote
 
 Voting conditions, support thresholds, scoring rules, weight cap and decay, voting windows and lock periods, candidacy requirements, Charter amendment supermajority and delays, and the aggregate limit on any group's share of weight. See [pilots/founding-vote-template.md](../pilots/founding-vote-template.md).
